@@ -10,7 +10,7 @@ scope: app-developer
 
 ## Disclaimer
 This post is meant to give a basic end-to-end description for deploying and using Prometheus and Grafana. Both 
-applications offer a wide range of flexibility which needs to be considered in case you have specific requirenments. 
+applications offer a wide range of flexibility which needs to be considered in case you have specific requirements. 
 Such advanced details are not in the scope of this post.
 
 
